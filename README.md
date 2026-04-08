@@ -9,7 +9,7 @@ The **AI CRM Conversation Extractor** is a Python-based system that converts **u
 
 
 ## Live Demo
- **Live Demo:** [Click here to view](https://crm-talk.streamlit.app/)
+ **Live Demo:** [Click here to view](https://crm-talks.streamlit.app/)
 
 
 ## screenshot
